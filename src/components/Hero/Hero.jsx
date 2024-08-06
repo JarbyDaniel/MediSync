@@ -6,8 +6,8 @@ const Hero = () => {
     <div className="hero">
       <div className="hero-main">
         <div className="hero-content">
-          <h1>Encuentra <span>Tu Doctor </span> Favorito</h1>
-          <p>Programa tu cita y configura recordatorios para tus medicamentos</p>
+          <h1> Conecta con Tu Salud en el <span>Hospital Susana López</span></h1>
+          <p>Programa tus citas y recibe recordatorios para tus medicamentos y citas.</p>
           <Link to="/login" className='button-hero'>
             Agenda tu cita aqui!
           </Link>
